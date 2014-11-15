@@ -1,4 +1,4 @@
-bookmarks
-=========
+DO NOT CLONE THIS REPO
+======================
 
-bookmarks repo for testing with taby
+## This repo is used for testing and will regularly be force pushed!
